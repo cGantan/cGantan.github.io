@@ -1,0 +1,101 @@
+{
+    "main": {
+        "name": "Claire Gantan",
+        "description": "Computer Science and Electrical Engineering Undergraduate Student",
+        "image": "profilepic.jpg",
+        "bio": "I am a computer engineer focused on the intersection of hardware and software, specifically computer architecture and robotics. I am passionate about making a difference, mainly through creating programs that teach underrepresented students about the world of STEM through an online curriculum.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "clhg589@berkeley.edu",
+        "phone": "",
+        "github": "https://github.com/cGantan",
+        "project": "https://github.com/",
+        "address": {
+            "street":"",
+            "city" : "Los Angeles",
+            "state": "California"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/claire-gantan",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/cGantan",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "",
+        "education": [
+            {
+                "school": "University of California, Berkeley",
+                "degree": "B.S. in Electrical Engineering and Computer Science",
+                "graduated": "May 2023",
+                "description": "Coursework includes: Structure & Interpretation of Computer Programs, Data Structures, Designing Information Devices & Systems, Multivariable & Vector Calculus, Machine Structures, Discrete Mathematics & Probability Theory, Social Implications of Computer Technology, and Computer Architecture and Engineering"
+            }
+        ],
+        "work": [
+            {
+                "company": "Juni Learning, Inc.",
+                "title": "Computer Science Instructor",
+                "years": "September 2020 - Present",
+                "description": "Responsible for developing ongoing learning plans for K-12 students (case load - 6 students) and conducting weekly individualized programming lessons specializing in Scratch, Python and Java"
+            },
+            {
+                "company": "USC Alfred Mann Institute of Biomedical Engineering",
+                "title": "Research Intern",
+                "years": "June 2020 - August 2020",
+                "description": "Optimized a system for automated recognition of drugs comprising of a computational neural network trained using normal visible and hyperspectral images, developed a wireframe design for the app, and expanded the knowledge base of computer learning system via 10k+ prepared images."
+            },
+            {
+                "company": "UC Berkeley Translational Applications of Nanoscale Multiferroic Systems",
+                "title": "Research Intern",
+                "years": "February 2020 - June 2020",
+                "description": "Developed and conducted input impedance simulations using COMSOL Multiphysics for acoustically-driven ferromagnetic resonance in High Overtone Bulk Acoustic Resonators (HBAR) in the Salahuddin Lab."
+            },
+            {
+                "company": "USC Bridge Undergraduate Science Program",
+                "title": "High School Research Intern",
+                "years": "June 2016 - August 2018 (summers)",
+                "description": "Enhanced Photon Microscope via Confocal Line Detection software in LabVIEW, prototyped, programmed and tested an Optical Coherence Tomography(OCT) device, and initiated the implementation of Github version control to the OCT project."
+            }
+        ],
+        "skills": [
+            {
+                "name": "Java",
+                "level": "80%"
+            },
+            {
+                "name": "Python",
+                "level": "75%"
+            },
+            {
+                "name": "C",
+                "level": "60%"
+            },
+            {
+                "name": "RISC-V",
+                "level": "60%"
+            },
+            {
+                "name": "LabVIEW",
+                "level": "80%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "GirlsConquerSTEM Cebu",
+                "category": "Scratch, Java, Community Service.",
+                "image": "project4.jpg",
+                "url": "https://www.tinyurl.com/girlsconquerstem"
+            }
+        ]
+    }
+}
