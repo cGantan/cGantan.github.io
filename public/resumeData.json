@@ -11,7 +11,7 @@
         "project": "https://github.com/",
         "address": {
             "street":"",
-            "city" : "Los Angeles",
+            "city" : "Los Angeles,",
             "state": "California"
         },
         "website": "https://github.com/",
